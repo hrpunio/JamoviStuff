@@ -1,0 +1,115 @@
+---
+title: "Jak łatwo analizować wyniki ankiety"
+author: "Tomasz Przechlewski"
+date: "28 stycznia 2024"
+output:
+  ioslides_presentation: default
+  slidy_presentation:
+    theme: lumen
+  beamer_presentation: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = F, warning = F, message = F, include = T, fig.width = 10 )
+```
+
+## Satysfakcja, przywiązanie i zamiar odejścia
+
+zzp = sp + sw + kpw + kpp + po + staz + plec + roddzial
+
+gdzie:
+
+* zzp = zamiar zmiany pracy
+* sp = satysfakcja z pracy
+* sw = satysfakcja z wynagrodzenia
+* kpw = konfikt ze współpracownikami
+* kpp = konfikt z przełożonym
+* po = przywiązanie do pracy (*organizational commitment*)
+
+oraz  płeć, staż,  praca (na oddziale ratunkowym lub intensywnej terapii (tak/nie))
+
+## Pomiar (Formularz Google)
+
+Zamiar zmiany pracy (zzp)
+
+```
+1. Często poważnie rozważam odejście z obecnej pracy;zzp1
+2. Zamierzam rzucić obecną pracę;zzp2
+3. Zacząłem szukać innej pracy;zzp3
+```
+Satysfakcja z pracy (sp)
+
+```
+1. Ogólnie rzecz biorąc nie lubię swojej pracy;sp1 (R)
+2. Ogólnie rzecz biorąc jestem zadowolony ze swojej pracy;sp2
+3. Ogólnie rzecz biorąc, lubię tu pracować;sp3
+```
+
+itd...
+
+
+## Przekodowanie (Arkusze Google)
+
+```
+=SWITCH(Arkusz1!B2:Arkusz1!B82;"Zdecydowanie się nie zgadzam" ; 1;
+"Nie zgadzam się" ; 2;
+"Trudno powiedzieć" ; 3;
+"Zgadzam się" ; 4;"Zdecydowanie się zgadzam" ; 5)
+
+=SWITCH(Arkusz1!F2:Arkusz1!F82;"Zdecydowanie niesatysfakcjonująca" ; 1;
+"Niesatysfakcjonująca" ; 2;"Trudno powiedzieć" ; 3;
+"Satysfakcjonująca" ; 4;
+"Zdecydowanie satysfakcjonująca" ; 5)
+
+=SWITCH(Arkusz1!I2:Arkusz1!I82;"Bardzo niezadowolony" ; 1;
+"Niezadowolony" ;2;
+"Trudno powiedzieć" ; 3;"Zadowolony" ; 4;"Bardzo zadowolony" ;5)
+```
+
+itd...
+(Można przekodowywać w Jamovi ale będzie to bardziej pracochłonne)
+
+
+## Obliczenie wartości miar (Jamovi)
+
+```
+zzp = zzp1 + zzp2 +zzp3
+
+sp = (6 - sp1) + sp2 + sp3,
+     ^^^^^^^^^
+ssp = ssp1 + ssp2 + ssp3 + ssp4 + ssp5 (nieużywana)
+
+sw =  sw1 + sw2 + sw3 + sw4
+
+sp0, zzp0 = jedno itemowy pomiar (nieużywane)
+
+kpw = kpw1 + kpw2 + kpw3 + kpw4
+kpp = kpp1 + kpp2 + kpp3 + kpp4
+
+poA = po1 + po2 + po3 + po4 + po5 + po6
+poN = po7 + po8 + po9 + po10 + po11 + po12
+poT = po13 + po14 + po15 + po16 + po17 + po18
+
+po = poA + poN + poT
+```
+
+## Zamiana liczby na skalę nominalną (Jamovi)
+
+Staż: mały, średni lub duży
+
+```
+IF ($source < 5, "M",
+  IF ($source < 16, "S", "D"))
+```
+
+## „Metryczka“ (Jamovi)
+
+## Weryfikacja hipotez (Jamovi)
+
+Regresja
+
+Test t: zzp a plec
+
+Test ANOVA: sw a staz
+
+## Koniec

@@ -1,0 +1,21 @@
+zzp = zzp1 + zzp2 +zzp3
+sp = sp1+ sp2 + sp3,
+ssp = ssp1 + ssp2 + ssp3 + ssp4 + ssp5 (alt)
+sw =  sw1 + sw2 + sw3 + sw4
+
+sp0, zzp0 = jedno
+
+kpw = kpw1 + kpw2 + kpw3 + kpw4,
+kpp = kpp1 + kpp2 + kpp3 + kpp4,
+
+poA = po1 + po2 + po3 + po4 + po5 + po6
+poN = po7 + po8 + po9 + po10 + po11 + po12
+poT = po13 + po14 + po15 + po16 + po17 + po18
+
+plec, kierunek, staz, zmiana, roddzial
+po = poA + poN + poT
+
+#####
+
+zzp = sp sw kpw kpp po staz plec roddzial
+
