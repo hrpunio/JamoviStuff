@@ -209,3 +209,6 @@ Analiza za pomocą programu Jamovi
 * Kanał na YT (uczelniany) zawierający materiały dydaktyczne
 
 
+* https://github.com/hrpunio/JamoviStuff (albo: https://rpubs.com/hrpunio/1241678)
+
+
