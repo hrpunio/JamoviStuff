@@ -1,0 +1,192 @@
+matura,plec,wiek,odleglosc,kierunek,miejsce,ss,afekt,kompetencje,wartosc,trudnosc,pws
+58,K,23,200,Pielęgniarstwo,Gdańsk,36,15,26,39,17,97
+-1,K,45,40,Pielęgniarstwo,Gdańsk,26,23,22,39,27,111
+-1,K,47,15,Pielęgniarstwo,Gdańsk,50,24,24,36,28,112
+4,K,53,5,Pielęgniarstwo,Gdańsk,40,29,32,35,30,126
+-1,K,43,50,Pielęgniarstwo,Gdańsk,34,25,24,45,27,121
+3,K,49,10,Pielęgniarstwo,Gdańsk,37,19,18,30,14,81
+-1,K,49,20,Pielęgniarstwo,Gdańsk,43,31,35,47,34,147
+3,K,56,10,Pielęgniarstwo,Gdańsk,49,31,24,39,30,124
+90,K,23,35,Pielęgniarstwo,Gdańsk,32,29,32,37,26,124
+-1,K,23,5,Pielęgniarstwo,Gdańsk,40,28,29,46,28,131
+-1,K,54,18,Pielęgniarstwo,Gdańsk,38,26,29,37,32,124
+4,K,29,30,Pielęgniarstwo,Gdańsk,30,22,24,45,25,116
+-1,K,49,44,Pielęgniarstwo,Gdańsk,34,20,19,33,25,97
+-1,K,49,80,Pielęgniarstwo,Gdańsk,42,30,30,47,35,142
+-1,K,48,250,Pielęgniarstwo,Toruń,33,16,20,35,15,86
+-1,K,51,15,Pielęgniarstwo,Gdańsk,31,33,28,48,34,143
+-1,K,48,15,Pielęgniarstwo,Gdańsk,44,19,23,54,24,120
+-1,K,48,40,Pielęgniarstwo,Gdańsk,40,21,19,33,26,99
+60,K,27,60,Pielęgniarstwo,Toruń,38,24,26,41,21,112
+-1,K,48,30,Pielęgniarstwo,Gdańsk,39,17,10,21,13,61
+60,K,32,60,Pielęgniarstwo,Toruń,33,26,26,38,27,117
+64,K,22,67,Pielęgniarstwo,Toruń,41,27,27,40,27,121
+-1,K,40,5,Pielęgniarstwo,Gdańsk,34,29,27,41,22,119
+-1,K,22,6,Pielęgniarstwo,Toruń,36,26,26,39,25,116
+56,K,52,43,Pielęgniarstwo,Toruń,32,27,23,33,23,106
+90,K,25,50,Pielęgniarstwo,Toruń,33,23,29,35,20,107
+60,K,23,80,Pielęgniarstwo,Toruń,35,17,21,39,19,96
+-1,K,44,115,Pielęgniarstwo,Toruń,36,22,25,47,27,121
+-1,M,40,45,Pielęgniarstwo,Toruń,43,28,29,44,29,130
+4,K,47,80,Pielęgniarstwo,Toruń,44,23,28,42,24,117
+-1,K,38,60,Pielęgniarstwo,Toruń,38,37,29,43,27,136
+-1,K,46,25,Pielęgniarstwo,Toruń,34,21,21,37,21,100
+-1,M,34,30,Pielęgniarstwo,Gdańsk,29,22,24,47,21,114
+-1,K,49,40,Pielęgniarstwo,Toruń,30,17,21,33,21,92
+4,K,54,10,Pielęgniarstwo,Gdańsk,38,29,28,39,26,122
+-1,K,50,100,Pielęgniarstwo,Toruń,35,16,20,24,25,85
+4,K,54,7,Pielęgniarstwo,Gdańsk,42,29,28,36,27,120
+-1,K,48,10,Pielęgniarstwo,Gdańsk,31,32,31,54,28,145
+-1,K,48,30,Pielęgniarstwo,Gdańsk,38,29,29,38,29,125
+3,K,52,30,Pielęgniarstwo,Gdańsk,28,26,27,45,31,129
+4,K,54,50,Pielęgniarstwo,Toruń,39,23,27,38,28,116
+40,K,29,10,Pielęgniarstwo,Gdańsk,37,15,17,35,21,88
+50,M,28,1,Pielęgniarstwo,Gdańsk,40,26,28,27,31,112
+70,K,25,12,Pielęgniarstwo,Gdańsk,33,18,22,39,26,105
+49,K,29,21,Pielęgniarstwo,Gdańsk,42,20,35,47,29,131
+-1,K,35,40,Pielęgniarstwo,Gdańsk,36,27,25,43,27,122
+-1,K,30,5,Pielęgniarstwo,Gdańsk,37,15,11,29,12,67
+50,K,34,5,Pielęgniarstwo,Gdańsk,44,20,12,36,25,93
+40,K,25,50,Pielęgniarstwo,Gdańsk,42,16,21,50,20,107
+-1,K,40,30,Pielęgniarstwo,Gdańsk,43,14,13,36,10,73
+4,K,29,5,Pielęgniarstwo,Gdańsk,35,33,34,53,32,152
+30,K,23,20,Pielęgniarstwo,Gdańsk,32,24,20,46,27,117
+65,K,32,7,Pielęgniarstwo,Gdańsk,39,32,28,49,28,137
+100,K,23,33,Pielęgniarstwo,Gdańsk,26,30,34,39,30,133
+-1,K,43,10,Pielęgniarstwo,Gdańsk,34,22,24,40,27,113
+-1,M,47,30,Pielęgniarstwo,Gdańsk,35,25,26,44,26,121
+-1,K,44,60,Pielęgniarstwo,Gdańsk,42,29,31,51,26,137
+-1,M,35,5,Pielęgniarstwo,Gdańsk,43,35,32,49,27,143
+-1,K,40,3,Pielęgniarstwo,Gdańsk,40,25,25,39,27,116
+-1,K,35,36,Pielęgniarstwo,Gdańsk,29,16,18,42,22,98
+3,K,55,100,Pielęgniarstwo,Gdańsk,36,24,24,47,18,113
+70,K,28,6,Pielęgniarstwo,Gdańsk,40,34,33,47,26,140
+-1,K,46,45,Pielęgniarstwo,Gdańsk,33,23,24,42,24,113
+50,K,27,60,Pielęgniarstwo,Gdańsk,37,19,22,36,19,96
+65,K,22,3,Pielęgniarstwo,Gdańsk,36,25,24,45,26,120
+32,K,23,35,Pielęgniarstwo,Gdańsk,35,15,22,33,22,92
+56,M,32,30,Pielęgniarstwo,Gdańsk,39,23,25,34,21,103
+86,K,29,15,Pielęgniarstwo,Gdańsk,37,32,30,39,25,126
+-1,K,42,10,Pielęgniarstwo,Gdańsk,31,29,29,42,30,130
+4,K,24,30,Pielęgniarstwo,Gdańsk,34,23,25,27,28,103
+3,K,50,40,Pielęgniarstwo,Gdańsk,29,14,18,23,19,74
+98,K,23,5,Pielęgniarstwo,Gdańsk,34,27,28,38,28,121
+3,K,47,3,Pielęgniarstwo,Gdańsk,37,24,21,37,29,111
+4,K,40,7,Pielęgniarstwo,Gdańsk,37,24,24,36,26,110
+70,K,24,7,Pielęgniarstwo,Gdańsk,50,24,25,38,26,113
+80,K,23,60,Pielęgniarstwo,Gdańsk,47,30,28,41,28,127
+98,K,23,24,Pielęgniarstwo,Gdańsk,28,34,29,40,29,132
+35,K,33,45,Pielęgniarstwo,Gdańsk,31,19,19,43,20,101
+3,M,23,5,Pielęgniarstwo,Gdańsk,36,17,31,38,26,112
+-1,K,40,100,Pielęgniarstwo,Gdańsk,39,23,20,36,28,107
+-1,K,35,120,Pielęgniarstwo,Gdańsk,35,25,23,49,15,112
+50,K,22,300,Pielęgniarstwo,Gdańsk,31,22,21,38,23,104
+78,K,22,10,Pielęgniarstwo,Gdańsk,33,26,21,36,28,111
+68,K,22,10,Pielęgniarstwo,Gdańsk,35,18,27,50,23,118
+3,K,32,50,Pielęgniarstwo,Gdańsk,32,21,19,37,21,98
+70,K,24,50,Pielęgniarstwo,Gdańsk,37,21,26,34,25,106
+3,K,50,3,Pielęgniarstwo,Gdańsk,45,25,21,52,17,115
+-1,K,44,15,Pielęgniarstwo,Gdańsk,39,25,27,46,23,121
+90,K,22,10,Pielęgniarstwo,Gdańsk,39,26,28,36,22,112
+75,K,27,7,Pielęgniarstwo,Gdańsk,37,18,20,24,27,89
+86,K,24,55,Pielęgniarstwo,Gdańsk,42,25,31,26,27,109
+-1,K,40,70,Pielęgniarstwo,Gdańsk,31,21,11,20,14,66
+100,K,23,10,Pielęgniarstwo,Gdańsk,35,24,27,45,28,124
+90,K,28,40,Pielęgniarstwo,Gdańsk,39,28,30,51,28,137
+68,K,21,180,Pielęgniarstwo,Gdańsk,36,19,22,36,26,103
+-1,K,43,5,Pielęgniarstwo,Gdańsk,43,24,27,57,30,138
+89,K,22,2,Pielęgniarstwo,Gdańsk,34,29,24,43,28,124
+-1,K,51,60,Pielęgniarstwo,Gdańsk,38,25,23,36,28,112
+-1,K,40,4,Pielęgniarstwo,Gdańsk,33,9,12,17,13,51
+-1,K,49,30,Pielęgniarstwo,Gdańsk,44,36,32,52,30,150
+-1,K,49,18,Pielęgniarstwo,Gdańsk,39,28,23,36,28,115
+-1,K,49,50,Pielęgniarstwo,Gdańsk,37,23,20,28,22,93
+-1,K,34,10,Pielęgniarstwo,Gdańsk,34,23,28,45,29,125
+-1,K,53,50,Pielęgniarstwo,Gdańsk,36,19,19,32,22,92
+85,K,23,9,Pielęgniarstwo,Gdańsk,36,22,24,32,27,105
+50,K,29,35,Pielęgniarstwo,Gdańsk,37,25,25,41,28,119
+-1,K,48,6,Pielęgniarstwo,Gdańsk,38,26,30,53,22,131
+-1,K,47,15,Pielęgniarstwo,Gdańsk,29,21,21,46,20,108
+40,K,36,60,Pielęgniarstwo,Gdańsk,39,28,25,41,23,117
+-1,K,49,10,Pielęgniarstwo,Gdańsk,40,24,26,33,27,110
+-1,K,43,30,Pielęgniarstwo,Gdańsk,27,24,22,36,28,110
+-1,K,50,30,Pielęgniarstwo,Gdańsk,38,29,24,37,28,118
+4,K,48,70,Pielęgniarstwo,Gdańsk,35,26,25,41,29,121
+3,K,33,100,Pielęgniarstwo,Gdańsk,40,31,29,41,18,119
+70,M,22,4,Pielęgniarstwo,Gdańsk,34,27,27,31,26,111
+40,K,56,30,Pielęgniarstwo,Gdańsk,39,31,30,53,22,136
+-1,K,44,40,Pielęgniarstwo,Gdańsk,36,18,25,37,23,103
+87,K,19,30,Ratownictwo Medyczne,Kwidzyn,38,22,24,39,26,111
+2,K,24,130,Ratownictwo Medyczne,Kwidzyn,38,24,23,36,28,111
+40,M,20,65,Ratownictwo Medyczne,Kwidzyn,34,30,31,49,25,135
+68,M,21,115,Ratownictwo Medyczne,Kwidzyn,38,27,26,40,27,120
+-1,K,36,80,Ratownictwo Medyczne,Kwidzyn,43,25,26,44,26,121
+60,M,31,250,Ratownictwo Medyczne,Kwidzyn,41,25,25,36,28,114
+40,K,19,23,Ratownictwo Medyczne,Kwidzyn,31,17,17,43,25,102
+-1,M,44,115,Ratownictwo Medyczne,Kwidzyn,41,18,37,61,25,141
+70,M,19,100,Ratownictwo Medyczne,Kwidzyn,36,29,34,44,31,138
+85,M,20,108,Ratownictwo Medyczne,Kwidzyn,37,31,30,54,28,143
+60,M,25,50,Ratownictwo Medyczne,Kwidzyn,40,29,28,40,29,126
+35,M,19,10,Ratownictwo Medyczne,Kwidzyn,40,27,24,37,30,118
+74,M,24,130,Ratownictwo Medyczne,Kwidzyn,38,31,30,37,32,130
+65,M,18,40,Ratownictwo Medyczne,Kwidzyn,39,24,21,54,20,119
+50,K,29,100,Ratownictwo Medyczne,Kwidzyn,45,34,31,45,35,145
+-1,K,21,6,Ratownictwo Medyczne,Kwidzyn,38,28,29,53,29,139
+50,M,29,40,Ratownictwo Medyczne,Kwidzyn,38,26,25,40,28,119
+-1,M,42,50,Ratownictwo Medyczne,Kwidzyn,37,25,27,49,18,119
+58,M,23,84,Ratownictwo Medyczne,Kwidzyn,39,32,31,38,26,127
+3,M,24,50,Ratownictwo Medyczne,Kwidzyn,38,30,27,43,29,129
+-1,K,35,40,Ratownictwo Medyczne,Kwidzyn,37,28,27,45,26,126
+80,M,19,120,Ratownictwo Medyczne,Kwidzyn,40,36,32,51,30,149
+3,M,20,100,Ratownictwo Medyczne,Kwidzyn,39,29,30,39,27,125
+3,M,20,3,Ratownictwo Medyczne,Kwidzyn,37,23,22,27,26,98
+55,M,23,5,Ratownictwo Medyczne,Kwidzyn,40,31,31,40,24,126
+45,M,27,160,Ratownictwo Medyczne,Kwidzyn,41,42,42,57,25,166
+4,M,18,100,Ratownictwo Medyczne,Kwidzyn,35,27,24,38,23,112
+-1,M,36,200,Ratownictwo Medyczne,Kwidzyn,40,34,36,50,39,159
+-1,M,36,100,Ratownictwo Medyczne,Kwidzyn,38,21,30,35,30,116
+30,M,20,40,Ratownictwo Medyczne,Kwidzyn,30,21,18,38,21,98
+60,M,23,100,Ratownictwo Medyczne,Kwidzyn,39,23,20,35,17,95
+40,M,27,110,Ratownictwo Medyczne,Kwidzyn,37,18,22,44,20,104
+-1,M,34,130,Ratownictwo Medyczne,Kwidzyn,41,27,30,46,29,132
+64,M,22,120,Ratownictwo Medyczne,Kwidzyn,34,24,25,34,22,105
+76,M,27,102,Ratownictwo Medyczne,Kwidzyn,42,33,27,49,17,126
+40,M,26,90,Ratownictwo Medyczne,Kwidzyn,36,20,19,30,25,94
+56,M,21,30,Ratownictwo Medyczne,Kwidzyn,40,16,23,55,29,123
+52,M,31,90,Ratownictwo Medyczne,Kwidzyn,38,23,23,46,27,119
+39,M,34,30,Ratownictwo Medyczne,Kwidzyn,36,28,32,36,27,123
+-1,M,34,110,Ratownictwo Medyczne,Kwidzyn,50,40,40,59,27,166
+50,K,32,100,Ratownictwo Medyczne,Kwidzyn,38,23,26,33,19,101
+-1,M,47,150,Ratownictwo Medyczne,Kwidzyn,36,24,27,41,26,118
+2,K,20,10,Ratownictwo Medyczne,Kwidzyn,37,16,14,33,19,82
+-1,K,43,75,Ratownictwo Medyczne,Kwidzyn,39,24,27,38,28,117
+5,K,50,70,Pielęgniarstwo,Gdańsk,45,11,21,44,16,92
+85,K,54,25,Pielęgniarstwo,Gdańsk,35,25,27,38,28,118
+-1,K,48,10,Pielęgniarstwo,Gdańsk,35,28,34,59,18,139
+-1,K,48,40,Pielęgniarstwo,Gdańsk,38,24,23,36,27,110
+-1,K,50,5,Pielęgniarstwo,Gdańsk,34,19,27,41,26,113
+30,K,25,140,Ratownictwo Medyczne,Kwidzyn,48,30,25,33,27,115
+40,M,21,70,Ratownictwo Medyczne,Kwidzyn,37,32,37,55,37,161
+50,K,18,35,Ratownictwo Medyczne,Kwidzyn,33,16,27,36,24,103
+0,M,20,45,Ratownictwo Medyczne,Kwidzyn,38,18,20,35,22,95
+58,M,28,80,Ratownictwo Medyczne,Kwidzyn,43,29,27,46,28,130
+40,M,24,110,Ratownictwo Medyczne,Kwidzyn,37,24,28,44,33,129
+60,K,18,45,Ratownictwo Medyczne,Kwidzyn,40,29,28,44,24,125
+43,M,21,80,Ratownictwo Medyczne,Kwidzyn,35,23,25,41,27,116
+4,M,23,100,Ratownictwo Medyczne,Kwidzyn,42,28,31,48,27,134
+65,M,19,40,Ratownictwo Medyczne,Kwidzyn,39,33,34,49,33,149
+72,M,21,80,Ratownictwo Medyczne,Kwidzyn,39,25,28,46,30,129
+-1,K,1985,65,Ratownictwo Medyczne,Kwidzyn,48,15,26,27,21,89
+40,M,19,70,Ratownictwo Medyczne,Kwidzyn,40,28,29,40,29,126
+50,M,19,70,Ratownictwo Medyczne,Kwidzyn,43,36,28,36,28,128
+-1,M,37,120,Ratownictwo Medyczne,Kwidzyn,40,32,37,56,34,159
+44,K,34,45,Ratownictwo Medyczne,Kwidzyn,40,27,25,37,29,118
+40,M,20,100,Ratownictwo Medyczne,Kwidzyn,38,26,23,34,27,110
+36,M,32,60,Ratownictwo Medyczne,Kwidzyn,40,26,26,37,28,117
+-1,M,40,40,Ratownictwo Medyczne,Kwidzyn,38,36,34,51,29,150
+-1,M,30,90,Ratownictwo Medyczne,Kwidzyn,36,26,29,45,28,128
+57,M,21,125,Ratownictwo Medyczne,Kwidzyn,35,22,24,33,17,96
+85,K,19,15,Ratownictwo Medyczne,Kwidzyn,35,18,24,39,16,97
+60,M,26,115,Ratownictwo Medyczne,Kwidzyn,44,32,35,44,29,140
+-1,K,19,100,Ratownictwo Medyczne,Kwidzyn,39,14,14,31,24,83
+44,K,19,120,Ratownictwo Medyczne,Kwidzyn,39,19,26,31,24,100
